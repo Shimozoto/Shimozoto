@@ -2,4 +2,5 @@
 - 👀 I’m interested in programming ofc, arts and crafts, gaming and IT in general.
 - 🌱 I’m currently learning C#
 - 📫 How to reach me dc @shimozuto (friendrequests open)...
-- Thats all i can say right now. If u have any ideas for projects on C# programming or questions about anything -> DMS open :D
+- 🤔 What you can find here? Unregulary posts of my school projects!
+- 💜 Thats all i can say right now. If u have any ideas for projects on C# programming or questions about anything -> DMS open 
